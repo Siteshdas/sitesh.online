@@ -39,6 +39,6 @@ export const featuresData = [
     id: 6,
     icon: <FiVideo />,
     title: "video Editing",
-    des: "Continew with graphic animation video !",
+    des: "Continue with graphic animation video !",
   },
 ];
