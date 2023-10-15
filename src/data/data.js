@@ -15,7 +15,7 @@ export const featuresData = [
     id: 2,
     icon: <SiCanva />,
     title: "Canva Design",
-    des: "Will learn this soon in near future !",
+    des: "Experience graphic designer !",
   },
   {
     id: 3,
@@ -27,18 +27,18 @@ export const featuresData = [
     id: 4,
     icon: <CgWebsite />,
     title: "Web Development",
-    des: "Have completed a MERN stack development course from Udemy. Have developed various projects and hosted them too, check them on my github.",
+    des: "Have completed a MERN stack development course from Digital Lync. Have developed various projects and hosted them too, check them on my github.",
   },
   {
     id: 5,
     icon: <FaFacebook />,
-    title: "facebookAds",
-    des: "Learned data extraction,cleaning, pattern identification & web scrapping skills during my internship. ALso, trained the ML models.",
+    title: "facebook Handel",
+    des: "Handel Facebook and Instagram account  ",
   },
   {
     id: 6,
     icon: <FiVideo />,
     title: "video Editing",
-    des: "Will learn this soon in near future !",
+    des: "Continew with graphic animation video !",
   },
 ];
