@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sitesh.online/static/css/main.66315453.css",
-    "main.js": "/sitesh.online/static/js/main.b6ce6efd.js",
+    "main.js": "/sitesh.online/static/js/main.16bda6ee.js",
     "static/media/disign.pdf": "/sitesh.online/static/media/disign.506caafd14e1af951be4.pdf",
     "static/media/projectFour.png": "/sitesh.online/static/media/projectFour.8689b861a6d1321a13dd.png",
     "static/media/projectSix.png": "/sitesh.online/static/media/projectSix.8689b861a6d1321a13dd.png",
@@ -16,10 +16,10 @@
     "static/media/testimonialThree.jpeg": "/sitesh.online/static/media/testimonialThree.75634994429c1e20a1d1.jpeg",
     "index.html": "/sitesh.online/index.html",
     "main.66315453.css.map": "/sitesh.online/static/css/main.66315453.css.map",
-    "main.b6ce6efd.js.map": "/sitesh.online/static/js/main.b6ce6efd.js.map"
+    "main.16bda6ee.js.map": "/sitesh.online/static/js/main.16bda6ee.js.map"
   },
   "entrypoints": [
     "static/css/main.66315453.css",
-    "static/js/main.b6ce6efd.js"
+    "static/js/main.16bda6ee.js"
   ]
 }
